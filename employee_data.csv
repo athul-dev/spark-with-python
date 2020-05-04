@@ -1,0 +1,5 @@
+employee_id,employee_name,age,location,hours
+G001,Pichai,47,California,14
+M002,Bill,64,Washington,
+A003,Jeff,56,,
+A004,,,,12
